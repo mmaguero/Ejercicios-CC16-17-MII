@@ -1,2 +1,2 @@
-# MII-CC16-17-Ejercicios
-Ejercicios propuestos para la asignatura CC de MII del UGr
+# Ejercicios-CC16-17-MII
+Ejercicios propuestos para la asignatura CC de MII de la UGr
