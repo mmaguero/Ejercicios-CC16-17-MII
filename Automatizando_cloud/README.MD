@@ -2,7 +2,7 @@
 
 ## Ejercicios
 
-* [] 1. 
+* [ ] 1. 
 Crear una máquina virtual Ubuntu e instalar en ella un servidor nginx para poder acceder mediante web.
 
 * [x] 2. 
