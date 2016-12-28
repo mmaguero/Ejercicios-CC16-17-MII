@@ -13,6 +13,7 @@
 
 ![1](EJ2/1.png)
 ![2](EJ2/2.png)
+![2](EJ2/3.png)
 
 * [ ] 3. Provisionar un contenedor LXC usando Ansible o alguna otra herramienta de configuración que ya se haya usado.
 
