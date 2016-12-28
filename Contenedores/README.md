@@ -12,7 +12,7 @@
 * [x] 2. Instalar una distro tal como Alpine y conectarse a ella usando el nombre de usuario y clave que indicará en su creación.
 
 ![1](EJ2/1.png)
-![2](E2/2.png)
+![2](EJ2/2.png)
 
 * [ ] 3. Provisionar un contenedor LXC usando Ansible o alguna otra herramienta de configuración que ya se haya usado.
 
@@ -20,13 +20,13 @@
 
 ![1](EJ4/1.png)
 ![2](EJ4/2.png)
+![3](EJ4/3.png)
+![4](EJ4/4.png)
 
 * [x] 5. Crear a partir del contenedor anterior una imagen persistente con commit.
 
 ![1](EJ5/1.png)
 ![2](EJ5/2.png)
-![3](EJ5/3.png)
-![4](EJ5/4.png)
 
 
 
