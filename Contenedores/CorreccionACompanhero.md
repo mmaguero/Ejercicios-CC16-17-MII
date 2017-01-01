@@ -4,5 +4,5 @@ Se comprueba el funcionamiento exitoso de *Contenedores/Docker* del compañero @
 
 ![1](../imgs/hitos/4/Correccion/1.png)
 ![2](../imgs/hitos/4/Correccion/2.png)
-![3](..imgs/hitos/4/Correccion/3.png)
+![3](../imgs/hitos/4/Correccion/3.png)
 ![4](../imgs/hitos/4/Correccion/4.png)
